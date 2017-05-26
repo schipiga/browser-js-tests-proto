@@ -1,0 +1,4 @@
+.tmp
+build
+*.log
+node_modules

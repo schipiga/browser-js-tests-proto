@@ -1,0 +1,4 @@
+--colors
+--require babel-polyfill
+--webpack-config webpack.mocha.js
+src/**/*.test.es6.js
